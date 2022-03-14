@@ -356,6 +356,14 @@ s}
 	margin: 10px 0 10px 20px;
 }
 
+#content upload {
+	font-size: 1.2em;
+  background-color:
+	color: #c8c8c8;
+	font-weight: bold;
+	margin: 10px 0 10px 20px;
+}
+
 #content a {
 	text-decoration: underline;
 }
