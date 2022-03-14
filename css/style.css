@@ -162,6 +162,7 @@ label {
   width: 100vw;
 	padding: 1px;
   position: fixed;
+  z-index: 999;
 }
 
 /***** TOP PAGE *****/
